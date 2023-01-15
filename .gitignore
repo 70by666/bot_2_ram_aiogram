@@ -1,0 +1,14 @@
+__pycache__
+.idea
+.vs
+.vscode
+gachi
+venv
+bot_2.pyproj
+bot_2.sln
+bot_2.sublime-workspace
+inline.py
+test_db.db
+inlinebot.py
+mat.json
+.env
